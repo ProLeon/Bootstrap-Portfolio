@@ -58,6 +58,7 @@ html {
 }
 .imgstyleport{
   width:100%;
+  height:100%;
   border: 8px double #42464e;
 }
 h2{
